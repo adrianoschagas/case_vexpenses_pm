@@ -1,0 +1,14 @@
+# Pastas de build e binários do .NET
+bin/
+obj/
+
+# Arquivos locais do Visual Studio
+.vs/
+*.user
+
+# Saída do script ETL
+etl_out/
+
+# Scripts temporários do PowerShell criados durante os testes
+read_excel*.ps1
+read_nps.ps1
